@@ -1,5 +1,5 @@
 # PewPew Paint
-A paint app for the PewPew portable hand-held game console.
+A paint app for the PewPew portable hand-held game console. (https://makerfabs.com/pewpew-standalone.html)
 
 ## Installation
 Connect the console to your computer with a micro USB cable. A Mass Storage device "CIRCUITPY" will appear on your desktop.
