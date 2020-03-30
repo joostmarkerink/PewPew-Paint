@@ -6,7 +6,7 @@ Connect the console to your computer with a micro USB cable. A Mass Storage devi
 Drop the file "paint.py" on it.
 
 ## How to use
-Move the cursor with the arrow keys.
+Move the cursor with the navigation buttons.
 Paint or clear pixels with the "O" button.
 Fill or clear an area with the "X" button.
 
