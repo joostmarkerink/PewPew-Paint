@@ -98,9 +98,7 @@ while True:
         needUpdate = True
     prevkeys = keys
     if needUpdate:
-        for y in range(8):
-            for x in range(8):
-                screen.pixel(x,y,drawing.pixel(x,y))
+        screen.blit(drawing,0,0)
         if editing or willEdit:
             screen.pixel(cursorx % 8, cursory % 8, 3)
     pew.show(screen)
