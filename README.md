@@ -12,3 +12,6 @@ Fill or clear an area with the "X" button.
 
 ## Demo video
 [![Demo](http://i3.ytimg.com/vi/ZqoXxeszuRk/hqdefault.jpg)](https://www.youtube.com/watch?v=ZqoXxeszuRk "Demo")
+
+## Platform
+https://github.com/pewpew-game/pewpew
