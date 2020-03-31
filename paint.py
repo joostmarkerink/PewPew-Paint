@@ -1,4 +1,4 @@
-#CC written by Joost Markerink http://joostmarkerink.nl
+#CC written by Joost Markerink (March 2020) http://joostmarkerink.nl 
 import pew
 import time
 pew.init()
